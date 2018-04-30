@@ -1,0 +1,30 @@
+{
+  "name": "GoDzBot",
+  "description": "A Discord.js bot made by GoDzM4TT3O hosted on Heroku",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "engines": {
+  "node": "8.x",
+  "npm": "*"
+},
+  "scripts": {
+   "start": "node bot.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoDzM4TT3O/godzbot.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "GoDzM4TT3O",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoDzM4TT3O/godzbot/issues"
+  },
+  "homepage": "https://github.com/GoDzM4TT3O/godzbot#readme",
+  "dependencies": {
+   "discord.js": "11.1.0"
+  }
+}
