@@ -1,0 +1,1 @@
+teste: python "musica.py"
