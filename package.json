@@ -2,13 +2,13 @@
   "name": "GoDzBot",
   "description": "A Discord.js bot made by GoDzM4TT3O hosted on Heroku",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "main.py",
   "engines": {
   "node": "8.x",
   "npm": "*"
 },
   "scripts": {
-   "start": "node bot.js"
+   "start": "python main.py"
     },
   "repository": {
     "type": "git",
